@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div >
-      <h1>GUTHUB repository</h1>
+      <h1>GITHUB repository</h1>
       
     </div>
   );
